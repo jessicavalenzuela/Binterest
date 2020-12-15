@@ -1,0 +1,107 @@
+.image {
+  height: 400px;
+  width: 400px;
+}
+li {
+  text-align: center;
+  justify-content: center;
+  list-style-type: none;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  margin-top: 5px;
+}
+
+.post {
+  margin-right: 20px;
+  border-bottom-style: solid;
+  border-bottom-color: lightgrey;
+}
+
+.binnedButton,
+.deleteButton {
+  background-color: lightcyan; /* Green */
+  border: solid;
+  color: black;
+  padding: 5px;
+  border-radius: 6px;
+  margin: 0 auto;
+  display: block;
+  cursor: pointer;
+  margin-bottom: 5px;
+}
+
+.binnedButton:hover,
+.deleteButton:hover {
+  background-color: darkcyan;
+  color: black;
+}
+
+.button {
+  background-color: lightcyan;
+  border: solid;
+  color: black;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+  margin: 0 auto;
+  display: block;
+  margin-bottom: 5px;
+}
+.button:hover {
+  background-color: darkcyan;
+  color: black;
+}
+
+.form {
+  margin-top: 2%;
+  margin-left: 2%;
+}
+
+.submit {
+  background-color: lightcyan; /* Green */
+  border: solid;
+  color: black;
+  padding: 5px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 8px;
+}
+
+h1 {
+  margin-left: 2%;
+}
+
+.link {
+  margin-left: 2%;
+  margin-bottom: 2%;
+  text-transform: capitalize;
+  display: inline-block;
+  font-weight: bold;
+  font-weight: bold;
+  color: grey;
+  letter-spacing: 2px;
+  font-size: 1.2rem;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: lightblue;
+}
+
+h2 {
+  margin-left: 5%;
+  font-size: 60px;
+  color: darkcyan;
+  text-align: center;
+}
+.oops {
+  margin-left: 5%;
+  font-size: 40px;
+  text-align: center;
+}
